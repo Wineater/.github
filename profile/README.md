@@ -4,6 +4,8 @@ Admin: https://admin.wineater.com/
 
 API: https://api-pos.wineater.com/
 
+POS: https://wineater-pos.vercel.app/
+
 <!--
 
 **Here are some ideas to get you started:**
