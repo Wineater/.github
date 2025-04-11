@@ -2,7 +2,7 @@
 
 Admin: https://admin.wineater.com/
 
-API: https://api-pos.wineater.com/
+API: https://wineater-api.vercel.app/
 
 POS: https://wineater-pos.vercel.app/
 
